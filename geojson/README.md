@@ -1,6 +1,6 @@
 # Prince Edward Island Township Lot Boundaries GeoJSON
 
-This is a GeoJSON representation of the [Prince Edward Island Township Lot Boundaries](../).
+This is a GeoJSON representation of the [Prince Edward Island Township Lot Boundaries](https://github.com/reinvented/hollandmap).
 
 The GeoJSON file contains 70 features:
  
