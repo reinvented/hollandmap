@@ -2,9 +2,7 @@
 
 ## 1765 Holland Survey of Prince Edward Island
 
-<div style="float: right; padding: 0 0 20px 20px;">
-  <img src="screenshots/hollandmap.jpg">
-</div>
+![image](screenshots/hollandmap.jpg)
 
 Samuel Holland's [1765 survey of what is now Prince Edward Island](http://www.islandimagined.ca/guides/discovery/samuel_holland) became the basis for the political geography of the island: the township lots and royaltied that Holland laid out are bred in the bone of contemporary PEI.
 
