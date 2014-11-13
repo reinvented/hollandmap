@@ -1,6 +1,6 @@
 # Prince Edward Island Township Lot Boundaries KML
 
-This is a KML representation of the [Prince Edward Island Township Lot Boundaries](../).
+This is a KML representation of the [Prince Edward Island Township Lot Boundaries](../README.md).
 
 The KML file contains 70 features:
  

@@ -1,6 +1,6 @@
 # Prince Edward Island Township Lot Boundaries Shapefile
 
-This is an ERSI Shapefile representation of the [Prince Edward Island Township Lot Boundaries](../).
+This is an ERSI Shapefile representation of the [Prince Edward Island Township Lot Boundaries](../README.md).
 
 The Shapefile file contains 70 features:
  
